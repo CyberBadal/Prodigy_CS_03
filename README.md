@@ -50,9 +50,9 @@ Fast, lightweight, and useful! 🚀
 
 Clone the repo:
 
-bash
-git clone https://github.com/CyberBadal/Produgy_CS_03/password-strength-checker.git
-cd password-strength-checker
+bash[
+git clone https://github.com/CyberBadal/Prodigy_CS_03.git
+cd password_strength_checker.py
 
 🤝 Contributing
 Contributions are more than welcome! 🙌
