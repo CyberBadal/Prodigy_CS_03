@@ -15,12 +15,6 @@ Welcome to the **Password Strength Checker** project! This tool helps users eval
 
 ---
 
-## 📸 Demo (Optional)
-
-> *(Add a screenshot or gif here if you have one)*
-
----
-
 ## 🛠️ Tech Stack
 
 - Python 🐍 
